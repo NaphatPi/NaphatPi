@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone 👋
+
+This github contains some of my side projects mainly in data science and machine learning. 
 
 <!--
 **NaphatPi/NaphatPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
